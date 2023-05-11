@@ -52,6 +52,4 @@ The `run` method will return an array of output values for the given input vecto
 
 If you find a bug or have a feature request, please create an issue or submit a pull request.
 
-## License
 
-This code is licensed under the [MIT License](https://opensource.org/licenses/MIT).
